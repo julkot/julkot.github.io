@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
 	<title>Homework</title>
@@ -114,6 +115,6 @@ a:hover {
     	<li>Paint</li>
     </ul>
 	</div>
-</div>
-</body>			
+     </div>
+  </body>			
 </html>
