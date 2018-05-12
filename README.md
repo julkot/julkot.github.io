@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Homework</title>
@@ -114,11 +113,7 @@ a:hover {
     	<li>Excel</li>
     	<li>Paint</li>
     </ul>
-
 	</div>
-
 </div>
-
-		</body>
-			
+</body>			
 </html>
